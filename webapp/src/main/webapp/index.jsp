@@ -1,2 +1,2 @@
-<h1 alighn=center>  Welcome to High-Brow Technologies </h1>
+<h1 align="center">  Welcome to High-Brow Technologies </h1>
 
