@@ -1,2 +1,2 @@
-<h1>  Welcome to Valaxy Technologies !!! </h1>
+<h1>  Welcome to High-Brow Technologies !!! </h1>
 
